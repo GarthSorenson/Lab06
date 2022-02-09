@@ -3,7 +3,7 @@ Project:    CS 1415 Lab #6
 File:       CS1415Lab06.cpp
 Purpose:    Driver program for the String class
 Author:     Garth Sorenson
-Date:       6 Feb 2020
+Updated:    6 Feb 2020
 */
 
 // INCLUDE
